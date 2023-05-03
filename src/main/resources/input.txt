@@ -1,3 +1,4 @@
+# Start calculator
 DEFINE a 4
 PUSH a
 SQRT
